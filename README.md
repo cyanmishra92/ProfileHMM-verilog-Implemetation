@@ -1,0 +1,2 @@
+# ProfileHMM-verilog-Implemetation
+The project is a simple verilog implementation of  a Hidden Markov Model (specifically profile HMM). Profile HMM are most useful in protein search engines. The code is a standalone module and does not read real data. The user can write a wrapper around it for reading real data, converting it to binary form and feeding it to the module. The code is built for specific application and is not for a generic use. This is rather a reference model than a proper solution.
